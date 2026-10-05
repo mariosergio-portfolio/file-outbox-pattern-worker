@@ -1,0 +1,25 @@
+# Build output
+/target/
+**/target/
+
+# Maven
+.mvn/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
